@@ -35,4 +35,4 @@ To Visit App:
 
 ## Reflection
 
-This was a project built over a couple days to familiarize myself with socket.io and mongodb. I set out to build an application that mimics google docs. The challenging part of this project was having document changes persist from one user to another. Some of the technologies used (aside from mongo and socket.io) were react-router, Quill, UUIDV4, and mongoose. 
+This was a project built over a couple days to familiarize myself with socket.io and mongodb. I set out to build an application that mimics google docs. The challenging part of this project was having document changes persist from one user to another. Another thing that I found very interesting (and I had not yet done after years of development) was using media queries to change the print format of the document. Since I've rarely encountered a situation where I need to properly print the document in an application, it was cool to tinker with that and format the page. Some of the technologies used (aside from mongo and socket.io) were react-router, Quill, UUIDV4, and mongoose. 
