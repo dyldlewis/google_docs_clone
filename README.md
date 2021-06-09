@@ -4,11 +4,8 @@ An application similar to google docs with moderate text-editing power built usi
 
 ## Project Screen Shot(s)
 
-#### Example:   
+![Google Docs](/screenshot.png?raw=true "Google Docs Clone")
 
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
 
 ## Installation and Setup Instructions 
 
